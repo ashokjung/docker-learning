@@ -1,7 +1,7 @@
 # commands
 
 
-## create docker network
+# create docker network
 ```docker
 docker network create mongo-network
 ```
@@ -17,7 +17,7 @@ docker run -d \
 mongo
 ```
 
-## start mongo express
+# start mongo express
 
 ```docker
 docker run -d \
