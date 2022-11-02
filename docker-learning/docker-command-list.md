@@ -7,5 +7,5 @@
       docker network ls  
    ```
 ```docker
-      docker network create mongo-network  
-     ```
+      docker network create mongo-network
+ ```
